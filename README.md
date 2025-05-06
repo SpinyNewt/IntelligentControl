@@ -12,7 +12,7 @@ This project focuses on the hierarchical control system for a multi-robot collab
 
 ==Expert control== systems use predefined rules and heuristics based on expert knowledge to adapt control strategies dynamically, optimizing performance in complex or uncertain conditions. 
 
-This project explores the dynamics of a==cart-inverted pendulum system== and implements an incremental discrete PID controller based on expert control to stabilize the system and improve its performance.
+This project explores the dynamics of a ==cart-inverted pendulum system== and implements an incremental discrete PID controller based on expert control to stabilize the system and improve its performance.
 
 ## HW3: Fuzzy Control
 
